@@ -178,4 +178,4 @@ Aspiring Data Analyst skilled in Power BI, DAX, SQL, Python, and Data Visualizat
 
 📌 GitHub: https://github.com/Vamshikandela
 
-📌 LinkedIn:
+📌 LinkedIn:https://www.linkedin.com/in/kandela-vamshi-2b4457258
