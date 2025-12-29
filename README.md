@@ -1,4 +1,4 @@
-🎬 IMDB Movie Sales & Performance Analysis Dashboard
+**🎬 IMDB Movie Sales & Performance Analysis Dashboard**
 📌 Project Overview
 
 This project presents an interactive Power BI dashboard built to analyze IMDB movie sales and performance data. The dashboard delivers meaningful insights into movie revenue, ratings, votes, genres, directors, actors, and year-wise trends, enabling data-driven decision-making for the film industry.
